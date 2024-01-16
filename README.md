@@ -1,0 +1,1 @@
+This repository collects research data, codes and results developed within the APPLICATE (Assessing Public Policy effectiveness in minimising Local Impacts with Climate-related AdapTation Expenditures) project (PRIN 2022).
